@@ -1,4 +1,6 @@
 # Unit 18 Homework: Citi Bike Analytics
+Click the link below to access the public tableau
+https://public.tableau.com/app/profile/kouam.kouassi/viz/KouamKouassi/SeasonalTripdashboard
 
 ## Before You Begin
 
