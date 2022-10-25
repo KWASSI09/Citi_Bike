@@ -1,18 +1,8 @@
-# Unit 18 Homework: Citi Bike Analytics
+# Visualizations, Dashboards and Story
 Click the link below to access the public tableau
-https://public.tableau.com/app/profile/kouam.kouassi/viz/KouamKouassi/SeasonalTripdashboard
+https://public.tableau.com/app/profile/kouam.kouassi/viz/KouamKouassi/SeasonalTripdashboard?publish=yes
 
-## Before You Begin
 
-* Save this assignment to your Tableau Public account rather than GitHub. 
-
-* If you haven't already, make sure to create a Tableau Public [account] (https://public.tableau.com/s/).
-
-* The free tier of Tableau only lets you save to their public server. So, each time you save your file, it will be uploaded to your Tableau Public profile. 
-
-* You can load and continue working on the same workbook.
-
-* When you finish your assignment, you will submit the URL to your Tableau Public workbook along with any additional files used in your analysis. 
 
 ## Background
 
@@ -24,19 +14,17 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
-## Instructions
+## My findings
 
-Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
+I created 13 visualizations, 2 dashboards and a story. With the data from Citi Bike I found some interesting fenomenon that will be displayed and analysed in this presentation.
 
-1. Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
+#### Visualizations
 
-The following are questions you may wish to answer. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
+* City Start stations Map Which map all bike stations available in the dataset.
 
-* How many trips have been recorded in total during the chosen period?
+* City End stations Map Which map all end bike stations available in the dataset.
 
-* By what percentage has total ridership grown?
-
-* How have the proportions of short-term customers and annual subscribers changed?
+* Gender 
 
 * What are the peak hours when bikes are used during the summer months?
 
