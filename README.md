@@ -24,43 +24,27 @@ I created 13 visualizations, 2 dashboards and a story. With the data from Citi B
 
 * City End stations Map Which map all end bike stations available in the dataset.
 
-* Gender 
+*  Total weekly ride 
 
-* What are the peak hours when bikes are used during the summer months?
+* Gender average tripduration by user in 2020 and in 2021
 
-* What are the peak hours when bikes are used during the winter months?
+* Monthly Tripduration per Gender
 
-* Today, what are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesize these are the top locations?
+* Gender usertype per month
 
-* Today, what are the top 10 stations in the city for ending a journey? Based on data, why?
+* Usertype Weekly average tripduration  per Gender
 
-* Today, what are the bottom 10 stations in the city for starting a journey? Based on data, why?
+* Birth year of riders by gender
 
-* Today, what are the bottom 10 stations in the city for ending a journey? Based on data, why?
+* Top 20 start stations 
 
-* How does the average trip duration change by age?
+* Top 20 end stations
 
-* What is the average distance in miles for a bike trip?
+* % of total tripduration along Gender
 
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan?
+* Best seasonal ride time
 
-* How variable is the utilization by bike ID?
-
-2. Use your visualizations (not necessarily all of them) to design a dashboard for each phenomenon. The dashboards should be accompanied by an analysis explaining why the phenomenon may be occurring. 
-
-3. Create one of the following visualizations for city officials:
-
-* **Basic:** A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
-
-* **Advanced:** A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
-
-* The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.
-
-4. Create your final presentation.
-
-    * Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
-
-    * Ensure your presentation is professional, logical, and visually appealing. 
+* Most used Start station per season
 
 ## Considerations
 
