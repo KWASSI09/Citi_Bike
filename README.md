@@ -46,6 +46,12 @@ I created 13 visualizations, 2 dashboards and a story. With the data from Citi B
 
 * Most used Start station per season
 
+
+## Details
+
+!(Images/Staticendmap.jpg)
+
+
 ## Considerations
 
 Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City municipal departments. Your data and analysis need to be presented in a way that is focused, concise, easy to understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough to inform programmatic changes. 
