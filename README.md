@@ -49,7 +49,7 @@ I created 13 visualizations, 2 dashboards and a story. With the data from Citi B
 
 ## Details
 
-!(Images/Staticendmap.jpg)
+![endstation](Images/Staticendmap.jpg)
 
 
 ## Considerations
