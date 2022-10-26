@@ -64,8 +64,8 @@ In this visualization, it can be seen that the stations are distributed in Jerse
 ### Dashboard1
 ![dashboard1](Images/dashB1.jpg)
 
-1. The dashboard is made by 4 visualization:
-  * the monthly tripduaration per Gender that shows the count of tripdiuration made by the 3 gender group ( Female, Male and Unknown) from which it is possible to notice that the male group made more trip in every month.
+1. The dashboard is made by 4 visualizations:
+  * <b> The monthly tripduaration per Gender </b> that shows the count of tripdiuration made by the 3 gender group ( Female, Male and Unknown) from which it is possible to notice that the male group made more trip in every month.
   * 
 
 
