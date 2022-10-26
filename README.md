@@ -54,11 +54,15 @@ The stations are all located in Jersey City
 ![endstation](Images/staticstartmap.jpg)
 
 ### This Map represents the City end stations
-In this visualization, it is shown that the stations are distributed in Jersey City and New York
+In this visualization, it can be seen that the stations are distributed in Jersey City and New York
 ![endstation](Images/Staticendmap.jpg)
 
 
-## Considerations
+# Dashboards
+### Dashboard1 : with this dashboard, i represented th
+![dashboard1](Images/dashB1.jpg)
+
+
 
 Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City municipal departments. Your data and analysis need to be presented in a way that is focused, concise, easy to understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough to inform programmatic changes. 
 
