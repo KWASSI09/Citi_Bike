@@ -47,8 +47,12 @@ I created 13 visualizations, 2 dashboards and a story. With the data from Citi B
 * Most used Start station per season
 
 
-## Details
+# Tableau page details
 
+### This Map represents the City start stations
+![endstation](Images/staticstartmap.jpg)
+
+### This Map represents the City end stations
 ![endstation](Images/Staticendmap.jpg)
 
 
