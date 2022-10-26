@@ -50,9 +50,11 @@ I created 13 visualizations, 2 dashboards and a story. With the data from Citi B
 # Tableau page details
 
 ### This Map represents the City start stations
+The stations are all located in Jersey City
 ![endstation](Images/staticstartmap.jpg)
 
 ### This Map represents the City end stations
+In this visualization, it is shown that the stations are distributed in Jersey City and New York
 ![endstation](Images/Staticendmap.jpg)
 
 
