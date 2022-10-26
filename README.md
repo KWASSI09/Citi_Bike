@@ -10,11 +10,13 @@ https://public.tableau.com/app/profile/kouam.kouassi/viz/KouamKouassi/SeasonalTr
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
+
+# Data
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
-However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
+For this min project, i used the Citi Bike data from June 2020 to January 2021. 
 
-## My findings
+## What you can find in my Citi Bike public tableau
 
 I created 13 visualizations, 2 dashboards and a story. With the data from Citi Bike I found some interesting fenomenon that will be displayed and analysed in this presentation.
 
@@ -59,8 +61,13 @@ In this visualization, it can be seen that the stations are distributed in Jerse
 
 
 # Dashboards
-### Dashboard1 : with this dashboard, i represented th
+### Dashboard1
 ![dashboard1](Images/dashB1.jpg)
+
+1 The dashboard is made by 4 visualization:
+  * the monthly tripduaration per Gender that shows the count of tripdiuration made by the 3 gender group ( Female, Male and Unknown) from which it is possible to notice that the male group made more trip in every month.
+  * 
+
 
 
 
