@@ -61,13 +61,22 @@ In this visualization, it can be seen that the stations are distributed in Jerse
 
 
 # Dashboards
-### Dashboard1 : an dynamic dashboard that put in relation the gender group, the usertype and the duration of the trip
+### Dashboard 1 : an dynamic dashboard that put in relation the gender group, the usertype and the duration of the trip.
 ![dashboard1](Images/dashB1.jpg)
 
 1. The dashboard is made by 4 visualizations:
-  * <b> The monthly tripduaration per Gender </b> that shows the count of tripdiuration made by the 3 gender groups ( Female, Male and Unknown) from which it is possible to notice that the male group had made more trip in every month.
+  * <b> The monthly trip duration per Gender </b> shows the count of trip duration made by the three gender groups ( Female, Male and Unknown), from which it is possible to notice that the male group had made more trips every month.
   * <b> Gender user type </b> represents the user type regardless of whether it is from any gender group. The Customer and the Subscriber describe the type of user. The former is a user with a 24-hour or 3-day subscription, and the latter has an annual subscription.
-This visualization tells us that after a drastic decrease from June 2020 to October 2020, the unknown client has seen its average Trip duration significantly increase from the previous low of 2041 to a value of 5809 in December 2020 and then drop dramatically. The highest value of the average Tripduration for women was observed in September 2020, while male values are shallow.  
+This visualization tells us that after a drastic decrease from June 2020 to October 2020, the unknown client has seen its average Trip duration significantly increase from the previous low of 2041 to a value of 5809 in December 2020 and then drop dramatically. The highest value of the average Tripduration for women was observed in September 2020, while male values are shallow. 
+  * <b> Total weekly ride </b> represents the total number of rider in evry week from June 2020 to January 2021.
+  * <b> Gender Avg trip duration by user in 2020 and 2021 </b> shows the gender riders of the two user types in 2020 and 2021. The bar graph of the customer in the year 2020 highlights the fact that the unknown and the female have almost the same average trip duration. However, The unknown has a higher average trip duration, followed by the female, while the male has the lowest value. The difference is minimal when considering the subscriber in the same year. 
+In 2021, even though the male customer average trip duration is still the lowest, the female had overtaken the unknown. However, The subscriber bar graph of the same year shows that the unknown has a higher average trip duration.
+In both years, however, the customer has significantly used the service offered by Citi Bike, as highlighted by the graph.
+
+
+### Dashboard 2 : The Seasonal Trip dashboard is a dynamic visualization showing the interaction between the four views it is made up of.
+![dashboard1](Images/dashB2.jpg)
+
 
 
 
