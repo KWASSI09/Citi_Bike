@@ -59,9 +59,12 @@ The stations are all located in Jersey City
 In this visualization, it can be seen that the stations are distributed in Jersey City and New York
 ![endstation](Images/Staticendmap.jpg)
 
+### The following view shows the year of birth by gender of those who use the services offered by Citi Bike. 
+![birthyear](Images/birthage.jpg)
+
 
 # Dashboards
-### Dashboard 1 : an dynamic dashboard that put in relation the gender group, the usertype and the duration of the trip.
+### Dashboard 1 :  A dynamic dashboard that creates an interaction between the gender group, the user type and the trip duration.
 ![dashboard1](Images/dashB1.jpg)
 
 1. The dashboard is made by 4 visualizations:
@@ -75,74 +78,20 @@ In both years, however, the customer has significantly used the service offered 
 
 
 ### Dashboard 2 : The Seasonal Trip dashboard is a dynamic visualization showing the interaction between the four views it is made up of.
-![dashboard1](Images/dashB2.jpg)
+![dashboard2](Images/dashB2.jpg)
+
+2. The seasonal trip dashboard also has four visualizations:
+  * <b> Most used station per season </b> represents the average trip duration per season( Summer, Autumn and Winter). As shown in the graph, the station Union St was most frequented in winter.
+  * <b> Top 20 start stations </b> as the title describes, the view shows the rank of the 20 best start stations by taking the number of trip duration. The shape of the circle also emphasizes the ranking; the bigger it is higher the count of trip duration.
+  *<b> Best seasonal ride time</b>. The line graph show the three seasons ( Summer, Autumn and winter). For this visualization, I considered how many times a station appears in the dataset, and I determined the associated time when a user decides to start a bike trip. For example, in summer and autumn, bikes were increasingly used between 5 am and 6 pm, after which we observed a drastic collapse.
+  *<b> % of total tripduration along gender </b>.  In this visualization, it can be seen that the unknown customer group represent 53.16% of those who used Citi Bike bikes, followed by the two other groups with very similar percentages, 23.63% for females and 23.18% for males. Among the subscribers, on the other hand, males dominate with 70.79% of riders, followed by females with 28.05% and unknown at 1.46%.
+  
+ 
 
 
 
 
 
-Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City municipal departments. Your data and analysis need to be presented in a way that is focused, concise, easy to understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough to inform programmatic changes. 
-
-## Submission 
-
-Your final submission should include:
-
-* A link to your Tableau Public workbook that includes the following:
-  * 4–10 total "phenomenon" visualizations 
-  * 2 dashboards
-  * 1 city official map
-  * 1 story 
-  * A text or markdown file with your analysis of the phenomena you uncovered in the data.
-
-## Sharing Your Work
-
-To share your work, we are asking that you save your workbook as a `.twb`x file so your TAs can grade them.
-
-To save your workbook as a .twbx file, select "Save As..." from the "File" drop-down. Then, select the .twbx option.
-
-## Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Analytic Rigor
-
-* Readability
-
-* Visual Appeal
 
 
-## Hints
-
-* You may need to get creative with how you combine each of the CSV files. Don't just assume Tableau is the right tool for the job. At this point, you have a wealth of technical skills and research abilities. Dig for an approach that works, and go with it.
-
-* Don't assume that the CSV format hasn't changed since 2013. Subtle changes to the formats in any of your columns can interfere with your analysis. Ensure that your data is consistent and clean throughout your analysis. (Hint: Start and End Time change at some point in the history logs).
-
-* Consider building your visualizations with small extracts of the data (like single files) before attempting to import the whole thing. What you will find is that importing all 20+ million records of data will create performance issues quickly. Welcome to "Big Data."
-
-* While utilizing all of the data may seem like a nice power play, consider the time course in making your analysis. Is data from 2013 the most relevant for making bike replacement decisions today? Probably not. Don't let overwhelming data fool you. Ground your analysis in common sense.
-
-* Remember, data alone doesn't answer anything. You will need to accompany your data visualizations with clear and directed answers and analysis.
-
-* As is often the case, your clients are asking for a LOT of answers. Be considerate about their “need to know” and the importance of not "cramming in everything.” Of course, answer each question, but do so in a way that is organized and presentable.
-
-* Since this is a project for the city, spend the appropriate time thinking through decisions on color schemes, fonts, and visual storytelling. The Citi Bike program has a clear visual style. As a suggestion, look for ways to have your data visualizations match their aesthetic.
-
-* Pay attention to labels. What exactly is "time duration?” What's the value of "age of birth?” You will almost certainly need calculated fields to get what you need.
-
-* Look for obvious outliers or false data. Not everyone who signs up for the program is answering honestly.
-
-* In answering the question of "why" a phenomenon is occurring, consider adding other pieces of information, like socioeconomic or geographic data. Tableau has a map "layer" feature that you may find helpful.
-
-* Don't be afraid to manipulate your data and play with settings in Tableau. Tableau is meant to be explored. We haven't covered everything that you’ll need &mdash; so keep an eye out for new tricks!
-
-* Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst. 
-
-
-## Rubric
-
-[Unit 18 Homework Rubric](https://docs.google.com/document/d/11hlhJnKmEJgRYL3mUxRcdrz4AIxBU5PXW5fYrRYvgW8/edit?usp=sharing)
-
-- - -
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
